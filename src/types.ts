@@ -1,0 +1,1 @@
+interface TILProps extends SVGSVGElement {}
