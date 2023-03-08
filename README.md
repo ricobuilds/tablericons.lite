@@ -1,5 +1,5 @@
 # tablericons-lite
-Opinionated set of icons from Tabler Icons.
+Opinionated set of icons from Tabler Icons (https://tabler-icons.io/).
 
 ## 📥 Installation
 Install `tablericons-lite` locally:
