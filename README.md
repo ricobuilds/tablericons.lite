@@ -12,6 +12,7 @@ yarn add tablericons-lite
 ```
 
 ## 🍇 How to use
+Import the icons into your Next.js/React project:
 ```
 import { TwitterLogo } from 'tablericons-lite'
 
