@@ -34,7 +34,7 @@
     "trailingComma": "es5"
   },
   "name": "tablericons-lite",
-  "author": "https://twitter.com/0xreeko",
+  "author": "https://twitter.com/emergingtechguy",
   "module": "dist/tablericons-lite.esm.js",
   "size-limit": [
     {
