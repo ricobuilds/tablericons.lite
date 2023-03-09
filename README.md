@@ -1,5 +1,5 @@
 # tablericons-lite
-Opinionated set of 24x24 icons from Tabler Icons (https://github.com/tabler/tabler-icons).
+Opinionated set of 24x24 icons from Tabler Icons (https://github.com/tabler/tabler-icons). I'll continue adding more to the set depending on needs/usage.
 
 ## 📥 Installation
 Install `tablericons-lite` locally:
