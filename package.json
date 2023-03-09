@@ -34,6 +34,7 @@
   },
   "name": "tablericons-lite",
   "author": "https://twitter.com/emergingtechguy",
+  "keywords": ["icons", "svg", "react", "frontend"],
   "module": "dist/tablericons-lite.esm.js",
   "size-limit": [
     {
