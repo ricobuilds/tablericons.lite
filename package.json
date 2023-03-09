@@ -35,6 +35,14 @@
   "name": "tablericons-lite",
   "author": "https://twitter.com/emergingtechguy",
   "keywords": ["icons", "svg", "react", "frontend"],
+  "homepage": "https://github.com/0xreeko/tablericons.lite",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xreeko/tablericons.lite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0xreeko/tablericons.lite/issues"
+  },
   "module": "dist/tablericons-lite.esm.js",
   "size-limit": [
     {
