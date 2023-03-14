@@ -1,3 +1,5 @@
+// TODO: #1 move from 24x24 to 16x16
+
 export { TwitterIcon } from './TwitterIcon'
 export { AtIcon } from './AtIcon'
 export { LinkedinIcon } from './LinkedinIcon'
